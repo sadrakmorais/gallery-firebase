@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Acesso remoto através do Heroku:
 `https://gallery-firebase.vercel.app/`
 
+![rheree](https://user-images.githubusercontent.com/71346403/148976220-e9de9bef-3322-4f4b-a103-dd01a1d12590.png)
+
 ## Considerações sobre o projeto
 
 O projeto Galeria de fotos foi realizado utilizando ReactJS, Typescript e firebase. Tem como principal funlçao guardar arquivos de imagem e exibi-los.
